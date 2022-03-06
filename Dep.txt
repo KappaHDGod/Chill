@@ -1,4 +1,9 @@
-12.5:06-03-2022:Changelogs.
+12.5:06-03-2022:
+updated Ahri.
+fixed prediction.
+reworked evade.
+//
+12.4:05-03-2022:
 updated Ahri.
 fixed prediction.
 reworked evade.
